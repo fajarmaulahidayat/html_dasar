@@ -21,9 +21,9 @@ Mempelajari :
     - Span
   - Komentar
 
-- Heading
-
 - Paragraf
+
+- Heading
 
 - List (Bullets & Numbering)
 
