@@ -12,8 +12,8 @@ Mempelajari :
 
   - Baris baru
   - Garis horizontal
-  - Teks miring/italic
-  - Teks tebal/bold
+  - Teks miring/ italic
+  - Teks tebal/ bold
   - Script
   - Object
   - Grouping
