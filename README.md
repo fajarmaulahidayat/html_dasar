@@ -7,9 +7,7 @@ HTML Dasar
 Mempelajari :
 
 - Hello World
-
 - Attribute HTML
-
   - Baris baru
   - Garis horizontal
   - Teks miring/italic
@@ -20,24 +18,15 @@ Mempelajari :
     - Div
     - Span
   - Komentar
-
 - Paragraf
-
 - Heading
-
 - List (Bullets & Numbering)
-
   - Unorder List
   - Order List
   - List Item
-  
   Definition List
     - dl, dt, dd
-
 - Hyperlink
-
 - Image
-
 - Table
-
 - Form
